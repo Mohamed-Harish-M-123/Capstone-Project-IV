@@ -6,3 +6,12 @@ In this project, our task is to identify major customer segments on a transactio
 The problem at hand is to develop an effective online retail customer segmentation model using unsupervised machine learning techniques. The goal is to identify distinct groups of customers based on their purchasing behaviors, preferences, and demographic information, in order to enable personalized marketing strategies and enhance the overall customer experience.
 ## Objective:
 The objective of this project is to develop a customer segmentation model that can effectively group customers based on their purchasing behavior and demographic attributes, enabling the online retailer to personalize marketing campaigns, optimize product recommendations, and improve customer satisfaction. By understanding the distinct needs and preferences of different customer segments, the retailer can tailor their strategies to enhance customer engagement, increase sales, and drive long-term customer loyalty.
+## Dataset description:
+- Invoice NO: Invoice number
+- Stock Code: Stock name code
+- Description: Description of the product
+- Quantity: Qunatity bought
+- InvoiceDate: Invoice date
+- UnitPrice: Price per unit
+- CustomerID: Unique Customer ID
+- Country: location
